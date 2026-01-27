@@ -1,14 +1,9 @@
-streamlit>=1.30
 streamlit
 pandas
+numpy
 geopandas
-Point
-numpy 
+shapely
 requests
-StringIO
-plotly.express
-plotly.graph_objects 
-re
-datetime
-hashlib
+plotly
+
 
