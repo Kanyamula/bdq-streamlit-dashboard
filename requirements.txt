@@ -1,0 +1,14 @@
+streamlit>=1.30
+streamlit
+pandas
+geopandas
+Point
+numpy 
+radians, cos, sin, asin, sqrt
+requests
+StringIO
+plotly.express
+plotly.graph_objects 
+re
+datetime
+hashlib
