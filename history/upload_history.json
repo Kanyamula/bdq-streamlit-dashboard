@@ -2599,5 +2599,158 @@
     },
     "n_rows": 1654,
     "n_cols": 62
+  },
+  {
+    "version_id": "v20260214_071645_0f0dbf",
+    "uploaded_at": "2026-02-14T07:16:45.593707+00:00",
+    "collection": "AFR",
+    "test_counts": {
+      "DQ_COUNTRY_NOT_EMPTY": {
+        "suspect_records": 1654,
+        "total_records": 1654,
+        "COMPLIANT": 0,
+        "NOT_COMPLIANT": 1654,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_COORDINATES_COUNTRYCODE_CONSISTENT": {
+        "suspect_records": 1654,
+        "total_records": 1654,
+        "COMPLIANT": 0,
+        "NOT_COMPLIANT": 1654,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_COORDINATES_STATEPROVINCE_CONSISTENT": {
+        "suspect_records": 1654,
+        "total_records": 1654,
+        "COMPLIANT": 0,
+        "NOT_COMPLIANT": 1259,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 395,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_COORDINATES_NOTZERO": {
+        "suspect_records": 324,
+        "total_records": 1654,
+        "COMPLIANT": 1330,
+        "NOT_COMPLIANT": 0,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 324,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_COORDINATEUNCERTAINTY_INRANGE": {
+        "suspect_records": 324,
+        "total_records": 1654,
+        "COMPLIANT": 1330,
+        "NOT_COMPLIANT": 0,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 324,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_COUNTRYCODE_NOTEMPTY": {
+        "suspect_records": 0,
+        "total_records": 1654,
+        "COMPLIANT": 1654,
+        "NOT_COMPLIANT": 0,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_COUNTRYCODE_STANDARD": {
+        "suspect_records": 38,
+        "total_records": 1654,
+        "COMPLIANT": 1616,
+        "NOT_COMPLIANT": 38,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_COUNTRY_COUNTRYCODE_CONSISTENT": {
+        "suspect_records": 1654,
+        "total_records": 1654,
+        "COMPLIANT": 0,
+        "NOT_COMPLIANT": 0,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 1654,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_COUNTRY_STATEPROVINCE_UNAMBIGUOUS": {
+        "suspect_records": 1654,
+        "total_records": 1654,
+        "COMPLIANT": 0,
+        "NOT_COMPLIANT": 0,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 1654,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_COUNTRY_FOUND": {
+        "suspect_records": 1654,
+        "total_records": 1654,
+        "COMPLIANT": 0,
+        "NOT_COMPLIANT": 1654,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_DECIMALLATITUDE_INRANGE": {
+        "suspect_records": 324,
+        "total_records": 1654,
+        "COMPLIANT": 1330,
+        "NOT_COMPLIANT": 324,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_DECIMALLATITUDE_NOTEMPTY": {
+        "suspect_records": 324,
+        "total_records": 1654,
+        "COMPLIANT": 1330,
+        "NOT_COMPLIANT": 324,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_DECIMALLONGITUDE_INRANGE": {
+        "suspect_records": 324,
+        "total_records": 1654,
+        "COMPLIANT": 1330,
+        "NOT_COMPLIANT": 324,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_DECIMALLONGITUDE_NOTEMPTY": {
+        "suspect_records": 324,
+        "total_records": 1654,
+        "COMPLIANT": 1330,
+        "NOT_COMPLIANT": 324,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_LOCATION_NOTEMPTY": {
+        "suspect_records": 0,
+        "total_records": 1654,
+        "COMPLIANT": 1654,
+        "NOT_COMPLIANT": 0,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 0,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 0
+      },
+      "DQ_ISSUE_COORDINATES_CENTEROFCOUNTRY": {
+        "suspect_records": 1654,
+        "total_records": 1654,
+        "COMPLIANT": 0,
+        "NOT_COMPLIANT": 0,
+        "POTENTIAL_ISSUE": 0,
+        "INTERNAL_PREREQUISITES_NOT_MET": 324,
+        "EXTERNAL_PREREQUISITES_NOT_MET": 1330
+      }
+    },
+    "n_rows": 1654,
+    "n_cols": 62
   }
 ]
