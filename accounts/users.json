@@ -1,0 +1,7 @@
+{
+  "frank": {
+    "password_hash": "50017f488c43f5ef2f6200e9de552237a4fc6c097e60fba8bb945a9d90c24469",
+    "salt": "ec90f52e2fe5b2a8d61299303fba2bf9",
+    "created_at": "2026-08-11T03:22:22.346815+00:00"
+  }
+}
